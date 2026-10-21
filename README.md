@@ -1,7 +1,5 @@
 ## Social
-Website:
 <p><a href="https://egesengoz.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a></p>
-Linkedin:
 <p><a href="https://linkedin.com/in/ege-sengoz-a92713226" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 ---
